@@ -74,5 +74,4 @@ if __name__ == "__main__":
 
 # Use the CLI and run by entering the following command:
 # python find_identical_photos.py "directory_path"
-# Example: python find_identical_photos.py "C:\Users\dmort\OneDrive\Pictures\Camera Roll"
 
