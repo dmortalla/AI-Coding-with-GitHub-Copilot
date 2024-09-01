@@ -88,29 +88,3 @@ if __name__ == "__main__":
 # To run the script:
 # Use the CLI and run by entering the following command:
 # python video_file_duration.py "directory_path"
-# Example: python video_file_duration.py "C:\Users\dmort\OneDrive\COURSERA\DLAI Machine Learning Specialization"
-
-
-'''
-### Visual Studio Code Integration
-
-If you are using Visual Studio Code, you can also use the built-in Git integration:
-
-1. **Open Your Repository**:
-   - Open your repository folder in Visual Studio Code.
-
-2. **Create or Update the Script File**:
-   - Create a new file named [`video_file_duration.py`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Fdmort%2FOneDrive%2FZERO%20To%20MASTERY%2FAI%20Coding%20with%20GitHub%20Copilot%2Fvideo_file_duration.py%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\Users\dmort\OneDrive\ZERO To MASTERY\AI Coding with GitHub Copilot\video_file_duration.py") or update the existing file with your script content.
-
-3. **Stage the Changes**:
-   - Go to the Source Control view by clicking the Source Control icon in the Activity Bar on the side of the window.
-   - You should see the changes listed. Click the `+` icon next to the file to stage it.
-
-4. **Commit the Changes**:
-   - Enter a commit message in the input box at the top of the Source Control view.
-   - Click the checkmark icon to commit the changes.
-
-5. **Push the Changes**:
-   - Click the ellipsis (`...`) at the top of the Source Control view and select `Push` to push the changes to your GitHub repository.
-
-By following these steps, you can include your [`video_file_duration.py`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Fdmort%2FOneDrive%2FZERO%20To%20MASTERY%2FAI%20Coding%20with%20GitHub%20Copilot%2Fvideo_file_duration.py%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\Users\dmort\OneDrive\ZERO To MASTERY\AI Coding with GitHub Copilot\video_file_duration.py") script in your GitHub repository.'''
